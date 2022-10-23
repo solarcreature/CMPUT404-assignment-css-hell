@@ -12,8 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Modifications Made
+=================
+
+Added stylesheet reference at the end of head section to override CSS.
+
 License/Copyright
 =================
+Sanjeev Kotha under CC-BY-SA
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the

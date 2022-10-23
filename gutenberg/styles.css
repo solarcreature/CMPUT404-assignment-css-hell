@@ -1,0 +1,47 @@
+body {
+    background-color: #edd59f;
+    background-image: url(theme/Old_paper6.jpg);
+    font-family: Garamond, Georgia, serif;
+    background-position: center;
+    margin: 0 20%;
+}
+
+h1, h2, h3, h4, h5 {
+    color : #444444;
+    letter-spacing: 3px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+div.c1, div.c2, div.c3, div.c4, div.c4 pre {
+    font-size: 2rem;
+    font-family: Garamond, Georgia, serif;
+    text-align: center;
+    color: #444444;
+}
+
+p {
+    font-size: 1.4em;
+    font-weight: 200;
+    line-height: 25px;
+}
+
+img {
+    border-radius: 5 px; 
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 1em;
+    padding: 2px;
+}
+
+a:link {
+    color: #444444;
+}
